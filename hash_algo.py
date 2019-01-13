@@ -1,3 +1,7 @@
+###########################
+####  CODE BY UKASHA   ####
+###########################
+
 #input of data to store in hash table
 emp_num=int(input("Enter Employee Number: "))
 emp_name=input("Enter Employee Name: ")
